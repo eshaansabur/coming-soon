@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8d00995.css",
+    "main.js": "/static/js/main.e77bac25.js",
+    "static/media/about.jpg": "/static/media/about.28c7dd252d7ac0cdf44c.jpg",
+    "static/media/portfolio-img2.png": "/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
+    "static/media/portfolio-img3.png": "/static/media/portfolio-img3.e2bf250541b961cca642.png",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img1.png": "/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/services.png": "/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/eshaan2.jpg": "/static/media/eshaan2.3f22d34318e6060d5fb5.jpg",
+    "static/media/logo.png": "/static/media/logo.5a19a9ea906bc4b2eb0b.png",
+    "index.html": "/index.html",
+    "main.e8d00995.css.map": "/static/css/main.e8d00995.css.map",
+    "main.e77bac25.js.map": "/static/js/main.e77bac25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d00995.css",
+    "static/js/main.e77bac25.js"
+  ]
+}
