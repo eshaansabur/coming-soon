@@ -86,7 +86,7 @@ const Work = () => {
         My <span className='text-accent'>Latest</span> Works
       </motion.h2>
       <div>
-        <div className='grid grid-cols-3 gap-4 gap-y-12 mb-10 lg:mb-0'>
+        <div className='grid grid-cols-1 lg:grid-cols-3 md:grid-cols-2 gap-4 gap-y-12 mb-10 lg:mb-0'>
           {/* image */}
           {
             works.map(work=>{
