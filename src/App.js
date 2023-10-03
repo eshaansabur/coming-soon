@@ -14,19 +14,19 @@ import UnderConstruction from './components/UnderConstruction';
 const App = () => {
   return (
     <div className='bg-site bg-no-repeat bg-cover overflow-hidden'>
-      {/* <Header />
-      <Banner /> */}
-      <UnderConstruction></UnderConstruction>
-      {/* <Nav /> */}
-      {/* <About />
-      <Services /> */}
-      {/* <Work />
-      <Contact /> */}
+      <Header />
+      <Banner />
+      {/* <UnderConstruction></UnderConstruction> */}
+      <Nav />
+      <About />
+      <Services />
+      <Work />
+      <Contact />
       <Routes>
-        <Route path="*" element={<UnderConstruction></UnderConstruction>}></Route>
-        <Route path="/under" element={<UnderConstruction></UnderConstruction>}></Route>
+        {/* <Route path="*" element={<UnderConstruction></UnderConstruction>}></Route> */}
+        {/* <Route path="/under" element={<UnderConstruction></UnderConstruction>}></Route> */}
       </Routes>
-      <div className='h-[4000px]'></div>
+      {/* <div className='h-[4000px]'></div> */}
     </div>
   );
 };

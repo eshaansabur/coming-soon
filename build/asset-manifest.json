@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8d00995.css",
-    "main.js": "/static/js/main.e77bac25.js",
+    "main.css": "/static/css/main.75c0ecf6.css",
+    "main.js": "/static/js/main.a12a8bfa.js",
     "static/media/about.jpg": "/static/media/about.28c7dd252d7ac0cdf44c.jpg",
-    "static/media/portfolio-img2.png": "/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
-    "static/media/portfolio-img3.png": "/static/media/portfolio-img3.e2bf250541b961cca642.png",
+    "static/media/Capture5.PNG": "/static/media/Capture5.9efffe983d93735e0d32.PNG",
+    "static/media/Capture6.PNG": "/static/media/Capture6.a22ad30e1e3feb4bba38.PNG",
+    "static/media/Capture4.PNG": "/static/media/Capture4.500b294bc429fbd21ec2.PNG",
+    "static/media/Capture1.PNG": "/static/media/Capture1.27f39b1ab231c82decaf.PNG",
+    "static/media/Capture3.PNG": "/static/media/Capture3.042066165d94cbae0b70.PNG",
     "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
-    "static/media/portfolio-img1.png": "/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/Capture2.PNG": "/static/media/Capture2.bba48f44d8c4edacc67f.PNG",
+    "static/media/Capture0.PNG": "/static/media/Capture0.9810bcdcdc622dd02ee9.PNG",
+    "static/media/Capture7.PNG": "/static/media/Capture7.eb5f1f12ee56a023e23e.PNG",
     "static/media/services.png": "/static/media/services.8e66d4fbbd95de45b8db.png",
     "static/media/eshaan2.jpg": "/static/media/eshaan2.3f22d34318e6060d5fb5.jpg",
     "static/media/logo.png": "/static/media/logo.5a19a9ea906bc4b2eb0b.png",
     "index.html": "/index.html",
-    "main.e8d00995.css.map": "/static/css/main.e8d00995.css.map",
-    "main.e77bac25.js.map": "/static/js/main.e77bac25.js.map"
+    "main.75c0ecf6.css.map": "/static/css/main.75c0ecf6.css.map",
+    "main.a12a8bfa.js.map": "/static/js/main.a12a8bfa.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8d00995.css",
-    "static/js/main.e77bac25.js"
+    "static/css/main.75c0ecf6.css",
+    "static/js/main.a12a8bfa.js"
   ]
 }

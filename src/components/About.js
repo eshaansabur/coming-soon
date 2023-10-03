@@ -12,7 +12,7 @@ const About = () => {
   const [ref, inView]= useInView({
     threshold: 0.5
   });
-  return <section className='section mt-8' id='about' ref={ref}>
+  return <section className='section mt-2' id='about' ref={ref}>
     <div className="container mx-auto">
       <div className='flex flex-col gap-y-10 lg:flex-row lg:items-center'>
         {/* image */}
@@ -25,8 +25,8 @@ const About = () => {
         viewport={{once: false, amount: 0.7}}
         >
           <h2 className='h2 text-accent'>About Me</h2>
-          <h3 className='h3 mb-4'>I am a motivated self learner</h3>
-          <p className='mb-6'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Et ipsam at, perspiciatis dolorem porro molestias consequatur, suscipit sapiente placeat totam expedita nemo accusantium repudiandae doloribus quibusdam quas atque ipsum! Laboriosam nobis nisi officia incidunt aliquam aut sed necessitatibus, soluta quam dolor, praesentium beatae? Expedita, quod. Incidunt, sequi! Commodi, ea molestiae!</p>
+          {/* <h3 className='h3 mb-4'>I am a motivated self learner</h3> */}
+          <p className='mb-6'>I have completed my undergraduate education from a reputed university in Dhaka, Bangladesh with a Bachelors degree in Computer Science at BRAC University. I have done minor in Bachelors of Business Administration. I completed my HSC from St. Joseph Higher Secondary School.</p>
           {/* stats */}
           <div className='flex gap-x-6 lg:gap-x-10 mb-12'>
             <div>

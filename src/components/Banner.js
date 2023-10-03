@@ -16,7 +16,7 @@ const Banner = () => {
           initial='hidden'
           whileInView={'show'}
           viewport={{once: false, amount: 0.7}}
-          className='text-[25px] lg:text-[55px] font-bold leading-[0.8]'>Hi, I am Eshaan</motion.h1>
+          className='text-[25px] lg:text-[45px] font-bold leading-[0.8]'>Hi, I am Eshaan</motion.h1>
           <div className='mb-6 text-[36px] lg:text-[40px] font-secondary font-semibold uppercase leading-[1]'>
             <span className='mr-4 text-white'>I work in </span>
             <TypeAnimation sequence={[
@@ -35,7 +35,13 @@ const Banner = () => {
           initial='hidden'
           whileInView={'show'}
           viewport={{once: false, amount: 0.7}}
-          className='mb-8 max-w-lg mx-auto lg:mx-0'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus consectetur voluptas neque debitis impedit, velit excepturi molestiae, doloribus iure voluptates fugit quibusdam tempora fuga ullam commodi dolore! Porro voluptate consequatur doloribus magnam explicabo quae voluptatum dignissimos ratione amet possimus eveniet eum harum, error, quidem enim! Eveniet laboriosam fugiat eum at sit dolores doloribus itaque nam. Adipisci eum facilis quibusdam dolorem nobis doloremque iure harum, hic, non fugiat molestiae commodi reiciendis eveniet quo enim obcaecati repudiandae quia illo, modi corporis aliquam? Enim, ea nesciunt, aut mollitia autem quisquam natus quibusdam ad molestiae obcaecati quae officiis ipsa quis cumque itaque eius repudiandae.</motion.p>
+          className='mb-8 max-w-lg mx-auto lg:mx-0'>A self-taught techie working in the web industry. I am a “forever student” who enjoys gaining knowledge through experience and collaborating with others. I am a quick learner who strives to do things differently. I enjoy taking on challenges that will allow me to accomplish my finest work.</motion.p>
+          <motion.p
+          variants={fadeIn('up', 0.5)}
+          initial='hidden'
+          whileInView={'show'}
+          viewport={{once: false, amount: 0.7}}
+          className='mb-8 max-w-lg mx-auto lg:mx-0'>Working with both local and international clients has given me experience in content writing. So, if you are afraid about starting an online business and are not sure about the web design or content writing, I can always offer you the help you need.</motion.p>
           <motion.button
           variants={fadeIn('up', 0.6)}
           initial='hidden'
